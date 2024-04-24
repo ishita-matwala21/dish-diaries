@@ -32,15 +32,6 @@ To get started with Dish Diaries, follow these steps:
 - Swing (GUI toolkit)
 - MySQL (for database storage)
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to Dish Diaries, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or fix.
-3. Commit your changes and push to your fork.
-4. Submit a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
